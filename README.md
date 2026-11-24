@@ -20,18 +20,14 @@ exp1_boolean_min_tb.v	Verilog testbench
 exp1_boolean_min.vcd	VCD waveform dump generated during simulation
 
 ## Verilog Program
+<img width="1033" height="286" alt="Screenshot 2026-11-23 094603" src="https://github.com/user-attachments/assets/cd8712a2-5b75-4453-b0a9-efeb4a48606d" />
 
 
 
 ## TestBench Program
+<img width="1031" height="713" alt="Screenshot 2026-11-23 094737" src="https://github.com/user-attachments/assets/a855ea22-c879-409b-b128-961e3f8a29b0" />
 
-
-
-
-
-
-
-    
+   
 ## Truth Table
  
 <img width="795" height="311" alt="image" src="https://github.com/user-attachments/assets/dd4ba5b9-016b-4ae5-a693-f309c60c4c0e" />
@@ -84,6 +80,7 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot 2026-11-20 154513" src="https://github.com/user-attachments/assets/03247290-35c6-4666-b4f7-2fb32f325703" />
 
 
 
